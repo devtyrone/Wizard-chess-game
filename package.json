@@ -1,0 +1,19 @@
+{
+  "name": "wizard-chess",
+  "version": "1.0.0",
+  "description": "A modern Wizard Chess game with AI opponent",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve -s .",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": ["chess", "game", "javascript", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
